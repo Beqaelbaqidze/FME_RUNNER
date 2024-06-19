@@ -1,0 +1,17 @@
+============================================================ 
+=                   ArcGIS Python Script Runner            = 
+=                         Author: B.K.                     = 
+============================================================ 
+ 
+[INFO] Running main script with ArcGIS Desktop Python interpreter... 
+Starting copy from G:\for_fme\output.gdb to G:\for_fme\2024-06-19_01-58_PM_10.gdb
+Copied and renamed File Geodatabase from G:\for_fme\output.gdb to G:\for_fme\2024-06-19_01-58_PM_10.gdb
+GDB copy completed and path saved.
+G:\for_fme\2024-06-19_01-58_PM_10.gdb exists. Waiting for copy operation to stabilize.
+Created File Geodatabase at G:\for_fme\2024-06-19_01-58_PM_93.gdb
+Copied G:\for_fme\2024-06-19_01-58_PM_10.gdb\VEXP_GPARCELS_4GDB to G:\for_fme\2024-06-19_01-58_PM_93.gdb\VEXP_GPARCELS_4GDB
+Copied G:\for_fme\2024-06-19_01-58_PM_10.gdb\VEXP_FLD_GBLDNGS_4GDB to G:\for_fme\2024-06-19_01-58_PM_93.gdb\VEXP_FLD_GBLDNGS_4GDB
+Copied G:\for_fme\2024-06-19_01-58_PM_10.gdb\VEXP_GLINES_4GDB to G:\for_fme\2024-06-19_01-58_PM_93.gdb\VEXP_GLINES_4GDB
+All layers and datasets copied successfully.
+Running copy_gdb.py...
+Running process_93_gdb.py...
